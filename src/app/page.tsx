@@ -3,7 +3,7 @@ import { TokenGate } from '@/components/TokenGate';
 import { getSession } from '@/utils/session';
 
 /**
- * The revalidate property determine's the cache TTL for this page and
+ * The revalidate property determine's the cache TTL for this page and aa
  * all fetches that occur within it. This value is in seconds.
  */
 export const revalidate = 180;
